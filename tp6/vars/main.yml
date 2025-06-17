@@ -24,6 +24,7 @@ php_packages_extra:
 
 php_enable_php_fpm: true
 
+apache_listen_port: 8080
 apache_remove_default_vhost: true
 apache_create_vhosts: true
 apache_vhosts:
