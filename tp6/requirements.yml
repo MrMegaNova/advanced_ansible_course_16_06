@@ -1,7 +1,0 @@
----
-roles:
-  - name: geerlingguy.apache
-    version: 4.0.0
-  - name: geerlingguy.mysql
-  - name: geerlingguy.php
-  - name: geerlingguy.apache-php-fpm
